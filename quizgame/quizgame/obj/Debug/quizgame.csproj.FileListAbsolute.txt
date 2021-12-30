@@ -1,0 +1,23 @@
+C:\Users\786 COMPUTERS\source\repos\quizgame\quizgame\bin\Debug\quizgame.exe.config
+C:\Users\786 COMPUTERS\source\repos\quizgame\quizgame\bin\Debug\quizgame.exe
+C:\Users\786 COMPUTERS\source\repos\quizgame\quizgame\bin\Debug\quizgame.pdb
+C:\Users\786 COMPUTERS\source\repos\quizgame\quizgame\obj\Debug\quizgame.csproj.AssemblyReference.cache
+C:\Users\786 COMPUTERS\source\repos\quizgame\quizgame\obj\Debug\quizgame.mainmenu.resources
+C:\Users\786 COMPUTERS\source\repos\quizgame\quizgame\obj\Debug\quizgame.Properties.Resources.resources
+C:\Users\786 COMPUTERS\source\repos\quizgame\quizgame\obj\Debug\quizgame.csproj.GenerateResource.cache
+C:\Users\786 COMPUTERS\source\repos\quizgame\quizgame\obj\Debug\quizgame.csproj.CoreCompileInputs.cache
+C:\Users\786 COMPUTERS\source\repos\quizgame\quizgame\obj\Debug\quizgame.exe
+C:\Users\786 COMPUTERS\source\repos\quizgame\quizgame\obj\Debug\quizgame.pdb
+C:\Users\786 COMPUTERS\source\repos\quizgame\quizgame\obj\Debug\quizgame.startgame.resources
+C:\Users\amirs\Downloads\quizgame\quizgame\quizgame\bin\Debug\quizgame.exe.config
+C:\Users\amirs\Downloads\quizgame\quizgame\quizgame\bin\Debug\quizgame.exe
+C:\Users\amirs\Downloads\quizgame\quizgame\quizgame\bin\Debug\quizgame.pdb
+C:\Users\amirs\Downloads\quizgame\quizgame\quizgame\obj\Debug\quizgame.csproj.AssemblyReference.cache
+C:\Users\amirs\Downloads\quizgame\quizgame\quizgame\obj\Debug\quizgame.mainmenu.resources
+C:\Users\amirs\Downloads\quizgame\quizgame\quizgame\obj\Debug\quizgame.Properties.Resources.resources
+C:\Users\amirs\Downloads\quizgame\quizgame\quizgame\obj\Debug\quizgame.startgame.resources
+C:\Users\amirs\Downloads\quizgame\quizgame\quizgame\obj\Debug\quizgame.csproj.GenerateResource.cache
+C:\Users\amirs\Downloads\quizgame\quizgame\quizgame\obj\Debug\quizgame.csproj.CoreCompileInputs.cache
+C:\Users\amirs\Downloads\quizgame\quizgame\quizgame\obj\Debug\quizgame.exe
+C:\Users\amirs\Downloads\quizgame\quizgame\quizgame\obj\Debug\quizgame.pdb
+C:\Users\amirs\Downloads\quizgame\quizgame\quizgame\obj\Debug\quizgame.quizform.resources
