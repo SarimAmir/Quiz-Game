@@ -8,3 +8,5 @@ Our quiz game is based on the concept of KBC 'Kon Banega Crorepati'. It's a deta
 3. And in the end you just need to update connection string in project file according to your PC.
 # Credits
 It was a semester project with my partner Gufran Bhatii https://github.com/GufranBhatti We took help from google and youtube for reference. https://youtu.be/Zyxu8jru_Zw
+# How to contribute to project
+More lifelines and questions can be added.
